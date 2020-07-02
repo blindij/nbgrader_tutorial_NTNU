@@ -23,7 +23,7 @@ and generate feedback.
 We will use the CodeRefinery notebook demonstrating how you can estimate $\pi$.
 
 ### Upload a notebook to the nbgrader server.
-1.  `git clone` the KJ1041 repository to your local computer. Under
+1.  `git clone` the repository to your local computer. Under
 the subdirectory `source`, there is a directory `problem_set_0`. Here
 you find a Jupyter Notebook which you can upload and use for creating an
 assignment.
