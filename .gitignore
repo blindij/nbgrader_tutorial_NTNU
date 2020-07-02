@@ -1,7 +1,13 @@
-# Byte-compiled / optimized / DLL files
+#  Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# PDF
+*.pdf
+
+# vim temporary files
+.*.sw?
 
 # C extensions
 *.so
